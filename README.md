@@ -3,5 +3,6 @@
  
  ## TODO
 - [ ] Handling sequence of tweens
-- [ ] Implementing joint Tweens
-- [ ] Implementing path Tweens 
+- [ ] joint Tweens
+- [ ] path Tweens 
+- [ ] Text Tween
