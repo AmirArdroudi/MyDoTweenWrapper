@@ -6,3 +6,4 @@
 - [ ] joint Tweens
 - [ ] path Tweens 
 - [ ] Text Tween
+- [ ] Float and Vector Tweens
