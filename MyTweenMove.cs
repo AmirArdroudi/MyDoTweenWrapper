@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using DG.Tweening;
 
-namespace VOID.FT
+namespace MTWrapper
 {
     public class MyTweenMove : MyTween
     {

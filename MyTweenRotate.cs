@@ -2,7 +2,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-namespace VOID.FT.Scripts.Tweens
+namespace MTWrapper
 {
     public class MyTweenRotate : MyTween
     {

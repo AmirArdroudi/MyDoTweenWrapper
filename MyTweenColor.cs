@@ -4,7 +4,7 @@ using MyBox;
 using TMPro;
 using UnityEngine.UI;
 
-namespace VOID.FT
+namespace MTWrapper
 {
     public enum TextureType
     {

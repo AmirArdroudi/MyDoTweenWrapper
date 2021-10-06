@@ -2,7 +2,7 @@
 using DG.Tweening;
 using MyBox;
 
-namespace VOID.FT
+namespace MTWrapper
 {
     public abstract class MyTween : MonoBehaviour
     {
